@@ -1,0 +1,19 @@
+AfriSpark-Tech/
+│
+├── index.html                # Main homepage
+├── about.html                # About Us page
+├── contact.html              # Contact page
+├── blog.html                 # Blog or Articles
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css         # Custom styles
+│   ├── js/
+│   │   └── main.js           # JavaScript functionality
+│   └── images/
+│       └── logo.png          # Your logo and other images
+│
+├── content/
+│   └── articles/             # Motivational articles & stories
+│
+└── README.md                 # GitHub README (optional)
